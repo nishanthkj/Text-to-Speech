@@ -1,4 +1,4 @@
-Got it. Here's the updated section for running the application locally:
+
 
 ## Running the Application Locally
 
