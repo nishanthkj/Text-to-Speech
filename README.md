@@ -123,4 +123,3 @@ Nishanth K J
 
 ---
 
-This README should provide a clear and comprehensive guide to your project, from setup and installation to usage.
